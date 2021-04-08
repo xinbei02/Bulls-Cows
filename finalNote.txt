@@ -1,0 +1,28 @@
+         
+         ¢i¢i¢i¢i                  ¢i    ¢i	
+         ¢i     ¢i                 ¢i    ¢i
+         ¢i      ¢i                ¢i    ¢i
+         ¢i     ¢i                 ¢i    ¢i  
+         ¢i¢i¢i¢i                  ¢i    ¢i    ¢i¢i   
+         ¢i     ¢i     ¢i    ¢i    ¢i    ¢i   ¢i      
+         ¢i      ¢i    ¢i    ¢i    ¢i    ¢i    ¢i¢i  
+         ¢i     ¢i     ¢i    ¢i    ¢i    ¢i       ¢i  
+         ¢i¢i¢i¢i       ¢i¢i¢i     ¢i    ¢i    ¢i¢i 
+
+  
+                          ¢i    ¢i
+	                   ¢i  ¢i
+                             ¢i
+                           ¢i  ¢i                        
+          ¢i¢i¢i	  ¢i	¢i	
+         ¢i    ¢i
+        ¢i	 ¢i
+       ¢i
+       ¢i                ¢i    ¢i        ¢i   ¢i¢i
+       ¢i              ¢i  ¢i   ¢i      ¢i   ¢i
+        ¢i       ¢i   ¢i    ¢i  ¢i  ¢i  ¢i    ¢i¢i
+         ¢i    ¢i      ¢i  ¢i    ¢i ¢i ¢i        ¢i
+          ¢i¢i¢i        ¢i¢i      ¢i  ¢i      ¢i¢i
+
+
+                   [start]     [explain]

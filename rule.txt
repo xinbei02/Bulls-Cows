@@ -1,0 +1,28 @@
+
+<Bulls x Cows' rule>
+If the number is correct and on the right place
+					--->show 'A'.
+
+If the number is correct but on the wrong place
+					--->show 'B'.
+
+If the number is wrong
+		--->nothing will happen.
+
+<Example>
+answer numbers is : 1234.
+my answer is : 1567, then I will get '1A'.
+If my answer is : 2341, then I will get '4B'.
+If my answer is : 1243,then I will get '2A2B'.
+
+<Instructions>
+Input your number one by one, if you don't 
+like the number which you input, you can 
+delete it. When you are ready for your answer, 
+just press the enter key to check your answer. 
+Notice that you have only five lifes to complete 
+the game.
+
+Go and Have Fun !
+
+                   [start]
